@@ -1,0 +1,10 @@
+d:\code\NPCHealthModifier\bin\Release\NPCHealthModifier.deps.json
+d:\code\NPCHealthModifier\bin\Release\NPCHealthModifier.dll
+d:\code\NPCHealthModifier\bin\Release\NPCHealthModifier.pdb
+d:\code\NPCHealthModifier\obj\Release\NPCHealthModifier.csproj.AssemblyReference.cache
+d:\code\NPCHealthModifier\obj\Release\NPCHealthModifier.GeneratedMSBuildEditorConfig.editorconfig
+d:\code\NPCHealthModifier\obj\Release\NPCHealthModifier.AssemblyInfoInputs.cache
+d:\code\NPCHealthModifier\obj\Release\NPCHealthModifier.AssemblyInfo.cs
+d:\code\NPCHealthModifier\obj\Release\NPCHealthModifier.csproj.CoreCompileInputs.cache
+d:\code\NPCHealthModifier\obj\Release\NPCHealthModifier.dll
+d:\code\NPCHealthModifier\obj\Release\NPCHealthModifier.pdb

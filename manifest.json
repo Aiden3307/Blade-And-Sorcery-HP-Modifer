@@ -1,0 +1,7 @@
+{
+  "Name": "NPC Health Modifier",
+  "Description": "Adds a slider in the options book under Mods to dynamically set max HP of newly spawned NPCs.",
+  "Author": "Aiden",
+  "ModVersion": "1.0.0",
+  "GameVersion": "1.0.0.0"
+}
